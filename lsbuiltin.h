@@ -1,0 +1,1 @@
+int ls(char **arguments, int count, char *home_directory);

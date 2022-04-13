@@ -1,0 +1,1 @@
+void fetchCommands(char* promptString, char **inp, char ***commands);

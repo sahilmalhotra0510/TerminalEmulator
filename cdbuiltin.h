@@ -1,0 +1,1 @@
+int cd(char **arguments, int count, char *home_directory);

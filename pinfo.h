@@ -1,0 +1,1 @@
+int pinfo(char **arguments, int count, char *home_directory);
